@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1786806234 source:g:\corc start\oop\test\main.cpp
+	<iostream>
+	"Person.h"
+	"Student.h"
+	"Teacher.h"
+	"Staff.h"
+	"Course.h"
+	"School.h"
+	"Class room.h"
+
+1786469548 source:g:\corc start\oop\test\src\person.cpp
+	<iostream>
+	<string>
+
+1786805309 g:\corc start\oop\test\include\person.h
+	<iostream>
+	<string>
+
+1786805309 g:\corc start\oop\test\include\student.h
+	<iostream>
+	<string>
+	"Person.h"
+
+1786805309 g:\corc start\oop\test\include\staff.h
+	<iostream>
+	<string>
+	"Person.h"
+
+1786805309 g:\corc start\oop\test\include\teacher.h
+	<iostream>
+	<string>
+	"Person.h"
+
+1786805309 g:\corc start\oop\test\include\course.h
+	<iostream>
+	<string>
+
+1786805743 g:\corc start\oop\test\include\school.h
+	<iostream>
+	<string>
+	"Student.h"
+	"Teacher.h"
+	"Staff.h"
+	"Course.h"
+	"Class room.h"
+
+1786805309 g:\corc start\oop\test\include\class room.h
+	<iostream>
+
